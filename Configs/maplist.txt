@@ -1,68 +1,67 @@
-aim_freya_grey
-aim_hyphoid
-awp_arena_vlgbeta2
-awp_arena_vlgbeta2_gw
-awp_asylum_ff
+aim_freya_grey              [NEW]
+aim_hyphoid                 [NEW]
+awp_arena_vlgbeta2_gw       [NEW]
+awp_asylum_ff               [UPDATED]
 awp_batson_dev
 awp_blocks
 awp_buildings_fix
 awp_bungalow_remake
-awp_cannons_cds_v5a 
+awp_cannons_cds_v5a         [MEME]
 awp_creek
 awp_deluxe2k15
-awp_dev_by_meska
-awp_dominion_cds
-awp_dust_2
+awp_dev_by_meska            [NEW]
+awp_dominion_cds            [NEW]
+awp_dust_2                  [NEW]
 awp_eggplant
-awp_eraser_cds
-awp_fast_pirate_v4
-awp_flutter_cds
+awp_eraser_cds              [NEW]
+awp_fast_pirate_v4          [NEW]
+awp_flutter_cds             [NEW]
 awp_fort_lego
 awp_gade
 awp_gsa_dust
-awp_hr_gw
-awp_ice_cds
+awp_hr_gw                   [NEW]
+awp_ice_cds                 [NEW]
+awp_india_proto             [NEW]
 awp_india_v2_gw
-awp_india_proto
 awp_indiang
 awp_infamous_sng
-awp_inferno_gw
+awp_inferno_gw              [NEW]
 awp_infinte_v2
 awp_kazki_simple
 awp_kox
-awp_lazlow
+awp_lazlow                  [NEW]
+awp_lego_2_hd
+awp_lego_404                [NEW]
+awp_lego_8_ultimate         [NEW]
 awp_lego_2011
 awp_lego_2013
 awp_lego_2015
-awp_lego_2017_gw
+awp_lego_2017_gw            [NEW]
 awp_lego_2019
-awp_lego_2_hd
-awp_lego_404
-awp_lego_8_ultimate
-awp_lego_crazyjump_twse
+awp_lego_crazyjump_twse     [MEME]
 awp_lego_fort_fix
 awp_lego_remix_final
 awp_legominiindia
-awp_log
+awp_log                     [NEW]
 awp_metal_csgo
-awp_milkyway_v4
-awp_minecraft2_fix_v2
+awp_milkyway_v4             [NEW]
 awp_minecraft_v2
+awp_minecraft2_fix_v2
 awp_monstercore
-awp_neon_cds
-awp_nitros_india
+awp_neon_cds                [NEW]
+awp_nitros_india            [NEW]
 awp_nomercy
 awp_nuke_gw
-awp_nuke_ramp
+awp_nuke_ramp               [NEW]
 awp_roost_beta_v4
 awp_rp06
 awp_rp94
-awp_sakura_cds
-awp_sandy_triangles_cds
-awp_server_beta01
-awp_shortrange_inf
+awp_sakura_cds              [UPDATED]
+awp_sandy_triangles_cds     [NEW]
+awp_server_beta01           [NEW]
+awp_shortrange_inf          [NEW]
 awp_sourceforts_go
-awp_summer_surf_gw
-awp_worm
-awp_zvk2-ifms
-awp2_v2
+awp_summer_surf_gw          [UPDATED]
+awp_worm                    [NEW]
+awp_zvk2-ifms               [NEW]
+awp2_v2                     [NEW]
