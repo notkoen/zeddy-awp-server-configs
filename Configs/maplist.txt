@@ -30,6 +30,7 @@ awp_infinte_v2
 awp_kazki_simple
 awp_lazlow
 awp_lego_2_hd
+awp_lego_3_small
 awp_lego_8_ultimate
 awp_lego_404
 awp_lego_2011
