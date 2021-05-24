@@ -1,6 +1,6 @@
 aim_freya_grey
 aim_hyphoid
-awp_arena_vlgbeta2_gw
+awp_arena_vlgbeta2
 awp_asylum_ff
 awp_batson_dev
 awp_blocks
@@ -25,7 +25,6 @@ awp_india_proto
 awp_india_v2_gw
 awp_indiang
 awp_infamous_sng
-awp_inferno_gw
 awp_infinte_v2
 awp_kazki_simple
 awp_lazlow
