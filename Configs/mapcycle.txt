@@ -24,6 +24,7 @@ awp_india_proto
 awp_india_v2_gw
 awp_indiang
 awp_infamous_sng
+awp_inferno_kn1
 awp_infinte_v2
 awp_kazki_simple
 awp_lego_2_hd
